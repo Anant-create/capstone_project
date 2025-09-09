@@ -1,4 +1,4 @@
-# nopcommerce-ui-automation
+# nopcommerce automation project
 
 Professionally structured **UI test automation** project (Selenium + Cucumber + TestNG) for `https://demo.nopcommerce.com`.
 
